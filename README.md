@@ -1,5 +1,4 @@
-# StockForecastTrader
-## Stock Market Analysis and Trading App
+# Stock Market Analysis and Trading App
 
 This project is a Python-based application for analyzing stock market trends and making informed trading decisions. It provides users with live stock prices, historical data analysis, and stock price forecasting using the Prophet library.
 
